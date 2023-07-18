@@ -13,7 +13,7 @@
 <div align="center">
   <img align="right" width="250px" src="https://github.com/Liliancardenas/BQ-Api-mock/blob/main/resources/images/octocat-1688486032142.png" />
 
-![Lili GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliancardenas&theme=radical&rank_icon=github&show_icons=true)
+ <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Liliancardenas&theme=cobalt&rank_icon=github&show_icons=true"/>
 
 </div>
 
