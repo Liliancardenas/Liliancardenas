@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando en Burger Queen API client
 - 🌍 Estoy radicada en Chile.
-- 👀Estoy interesado en aprender sobre tecnología.
+- 👀Estoy interesada en aprender sobre tecnología.
 
   <br>
 
