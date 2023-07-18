@@ -3,8 +3,12 @@
 
 
 - 🔭 Actualmente estoy trabajando en Burger Queen API client
+- 🌍 Estoy radicada en Chile.
+- 👀Estoy interesado en aprender sobre tecnología.
 
-- <h3 align="left">✨ Mi stats ✨</h3>
+  <br>
+
+ <h3 align="left">✨ Mi stats ✨</h3>
 
 <div align="center">
   <img align="right" width="250px" src="https://github.com/Liliancardenas/BQ-Api-mock/blob/main/resources/images/octocat-1688486032142.png" />
@@ -13,7 +17,7 @@
 
 </div>
 
-
+<br>
 <h3 align="left">✨ Lenguaje y Herramientas ✨</h3>
 
 <div align="left">
