@@ -1,12 +1,24 @@
-# 👋  Hola, soy Lilian 👩🏽‍💻
+<div align="center">
+  
+ # Hola, soy Lilian 👩🏽‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&pause=1000&color=B16767&center=true&vCenter=true&width=435&lines=Front+End+Developers+%F0%9F%A7%A1)](https://git.io/typing-svg)
 
-<br> 
+  <img align="center" width="250px" src="https://github.com/Liliancardenas/Liliancardenas/assets/127140327/e55dda7b-2dcf-4d05-b627-3a7a038c9851" />
+  
+ </div>
 
-- 🔭 Actualmente estoy trabajando en Burger Queen API client
+
+ ## ✨ Un poco de mi ✨
+ - 🔭 Actualmente estoy trabajando en Burger Queen API client
 - 🌍 Estoy radicada en Chile.
 - 👀Estoy interesada en aprender sobre tecnología.
 
-  <br>
+ 
+
+
+
+<br>
+
 
  <h3 align="left">✨ Mi stats ✨</h3>
 
