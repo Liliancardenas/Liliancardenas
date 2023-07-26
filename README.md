@@ -23,7 +23,7 @@
  <h3 align="left">✨ Mi stats ✨</h3>
 
 <div align="center">
-  <img align="center" width="250px" src="https://github.com/Liliancardenas/BQ-Api-mock/blob/main/resources/images/octocat-1688486032142.png" />
+ 
 
  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=Liliancardenas&theme=cobalt&rank_icon=github&show_icons=true"/>
 
