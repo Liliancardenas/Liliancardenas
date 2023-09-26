@@ -9,7 +9,7 @@
 
 
  ## ✨ Un poco de mi ✨
- - 🔭 Actualmente estoy trabajando en Burger Queen API client
+ - 🔭 Actualmente estoy en busqueda de trabajo como FronEnd
 - 🌍 Estoy radicada en Chile.
 - 👀Estoy interesada en aprender sobre tecnología.
 
